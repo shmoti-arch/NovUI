@@ -10,5 +10,5 @@
 To install and use this UI Library simply just paste this line of code at the top of your script;
 
 ```lua
---Soon
+local NovUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/shmoti-arch/NovUI/refs/heads/main/LIB"))()
 ```
