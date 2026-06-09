@@ -1,7 +1,7 @@
 ![Logo](IGNORE/Title.png)
-## New-gen UI Library for Roblox
 
 [![English](https://img.shields.io/badge/lang-en-blue)](README.md)
+[![Russian](https://img.shields.io/badge/lang-ru-yellow)](README.ru.md)
 
 # Features
 * Creating in-game components such as windows, buttons and etc.
