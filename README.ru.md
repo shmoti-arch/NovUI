@@ -3,6 +3,8 @@
 [![English](https://img.shields.io/badge/lang-en-blue)](README.md)
 [![Russian](https://img.shields.io/badge/lang-ru-yellow)](README.ru.md)
 
+![Preview](IGNORE/Preview.png)
+
 # Функции
 * Создание UI элементов по типу кнопок окон и тп.
 * Переключатели и кнопки с настраиваемым функционалом
