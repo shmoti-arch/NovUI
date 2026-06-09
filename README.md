@@ -1,9 +1,9 @@
 ![Logo](IGNORE/Title.png)
 
-![Preview](IGNORE/Preview.png)
-
 [![English](https://img.shields.io/badge/lang-en-blue)](README.md)
 [![Russian](https://img.shields.io/badge/lang-ru-yellow)](README.ru.md)
+
+![Preview](IGNORE/Preview.png)
 
 # Features
 * Creating in-game components such as windows, buttons and etc.
