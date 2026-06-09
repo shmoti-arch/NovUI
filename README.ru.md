@@ -1,4 +1,4 @@
-![Logo](IGNORE/Title.png)
+![Logo](IGNORE/TitleRU.png)
 
 [![English](https://img.shields.io/badge/lang-en-blue)](README.md)
 [![Russian](https://img.shields.io/badge/lang-ru-yellow)](README.ru.md)
